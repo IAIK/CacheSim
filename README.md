@@ -5,7 +5,7 @@ These caches are objects that represent a single cache (possibly with slices)
 - **Cache**  
   all other caches derive from this abstract class
 - **SACache**  
-  Standard set-associattive cache that can use the policies defined below.  
+  Standard set-associative cache that can use the policies defined below.  
   Faster than GenericCache as it's single-purpose.
 - **GenericCache**  
   This cache implements the model defined by Purnal et al. in the paper [Systematic Analysis of Randomization-based Protected Cache Architectures](https://ginerlukas.com/publications/papers/SystematicAnalysis2020.pdf)  
