@@ -123,5 +123,4 @@ Build with `make attack_sim` (without .cpp), run with `attack_sim.x`.
 
 
 ## misc
-
 make clean and prepend DEBUG=1 to make to enable assert sanity checks
